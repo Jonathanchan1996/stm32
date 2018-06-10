@@ -1,0 +1,17 @@
+.\objects\clj_f1uart.o: src\library\CLJ_f1UART.c
+.\objects\clj_f1uart.o: src\library\CLJ_f1UART.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\core_cm3.h
+.\objects\clj_f1uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\system_stm32f10x.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_conf.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_dma.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_exti.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_flash.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_fsmc.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_gpio.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_rcc.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_spi.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\stm32f10x_usart.h
+.\objects\clj_f1uart.o: .\src\stm32f10x_std\inc\misc.h
