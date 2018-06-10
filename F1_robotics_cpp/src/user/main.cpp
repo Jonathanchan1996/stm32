@@ -44,16 +44,6 @@ int main(void){
 	}
 }
 void UART1rx_Task(void){	//work in both DMA and interrupt mode
-	/*  
-		IT mode:This function will run only when received '~' 
-			protocal:
-				[data*n][~]
-		DMA mode:
-			only run when receive_array full
-	*/
-//	u16enc = abs_encoder_read();
-//	u8tenc[0] = u16enc>>8;
-//	u8tenc[1] = u16enc;
 	UART1_transmit((uint8_t*)"received\n", 9);
 }
 
